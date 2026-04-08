@@ -15,7 +15,8 @@ ul {
     border-radius: 8px; 
     border: 1px solid #d8c3a5; }
 
-button {
-    background-color: white;
+begruessungAnzeigen {
+    background-color: rgb(136, 136, 210);
     font-family: 'Courier New', Courier, monospace;
+
 }
